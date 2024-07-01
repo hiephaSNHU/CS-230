@@ -14,6 +14,6 @@ The discovery phase of a project is always beneficial. It involves outlining pot
 
 I missed some key considerations when evaluating different platforms, particularly regarding security. Ensuring secure coding practices and incorporating security features should always be a top priority and should not have been overlooked.
 
-**How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-**
+**How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?**
+
 Addressing the user's needs is crucial; otherwise, they will abandon your application for a better alternative. Additionally, continually delighting your users is essential for retaining even the most loyal customers.
